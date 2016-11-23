@@ -1,0 +1,21 @@
+.root {
+    -fx-font-family: Papyrus;
+    -fx-alignment: center;
+    -fx-hgap: 10;
+    -fx-vgap: 10
+}
+
+.text-field{
+    -fx-font-family: Helvetica
+    }
+
+.title {
+    -fx-font-size: 80px;
+    -fx-fill: AQUA
+}
+
+#firstName{
+    -fx-background-color: yellow;
+    -fx-font-family: Impact;
+}
+
